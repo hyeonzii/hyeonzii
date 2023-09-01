@@ -23,8 +23,5 @@
 <a href="mailto:hyun09100407@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
 <a href="https://velog.io/@hyeonzii"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;
 <a href="[https://velog.io/@hyeonzii](https://www.notion.so/FRONTEND-DEVELOPER-2d7e27b3c47742708b9cd2a809ec4dd1)"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp;
-<br/>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=guswl9_9)](https://solved.ac/guswl9_9/)
 
 </div>
