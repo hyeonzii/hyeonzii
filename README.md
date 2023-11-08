@@ -22,6 +22,6 @@
 
 <a href="mailto:hyun09100407@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
 <a href="https://velog.io/@hyeonzii"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;
-<a href="https://www.notion.so/FRONTEND-DEVELOPER-2d7e27b3c47742708b9cd2a809ec4dd1"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp;
+<a href="https://pleasant-hide-d95.notion.site/FRONTEND-DEVELOPER-1bee11a179ca4fe1bb2832c254317bab?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp;
 
 </div>
