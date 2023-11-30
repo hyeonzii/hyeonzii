@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/Java-1572B6?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Mysql-4479a1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
 <br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonzii&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### It's Me!
 ----
