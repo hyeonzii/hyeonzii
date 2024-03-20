@@ -1,6 +1,6 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=Rect&color=0:fbf0b2,100:d8b4f8&height=200&section=header&text=LEE%20HYEONJI&desc=Frontend%20Dveloper&descAlign=65&descAlignY=80&fontColor:ffffff)
+
+프론트엔드 개발자 이현지입니다~
 
 ### 🛠️ Tech Stack 🛠️
 ----
